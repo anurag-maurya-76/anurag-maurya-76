@@ -16,26 +16,6 @@
 - Developed the entire UI from scratch, built reusable widgets, maintained application state, used i18n for translation, wrote effective API calls.
 - Built the website's interface for internal use with ReactJS and SCSS. Integrated Redux using Redux toolkit. efficiently handled GraphQL calls using Apollo Client and API calls using React query. Also used the context provider for tab switching.
 
-## 🌐 Key Projects
-
-### `Portfolio` - NextJS | Tailwind Css | Framer motion | Typescript
-
-- Built a portfolio website and deployed using Vercel hosting.
-- Used framer motion for animating the website, effectively styled the website using tailwind css.
-- Integrated Resend for email communication.
-
-### `UniCampus` - Flutter | Firebase | Dart | Riverpod
-
-- Built an app for unifying all the college campus activities.
-- Used firebase as backend to store the data, built beautiful ui using flutter.
-- Maintained the global state using Riverpod library
-
-### `CabMe` - Flutter | Firebase | Dart | Routing service
-
-- Built a clone app of Uber for users as well as the drivers.
-- Used firebase as backend to store the data, integrated the routing service from google to locate the user, fare calculation and navigation,
-- Integrated firebase notification to send notification to driver for cab request.
-
 ## 🌱 Continuous Learning
 
 Currently expanding my proficiency in Springboot and exploring Docker to stay at the forefront of industry trends.
